@@ -74,6 +74,7 @@ class Calculator {
         for (int i = 0; i < numChars; i ++){
             builder.append((char)random.nextInt());
         }
+
         return builder.toString();
     }
 
