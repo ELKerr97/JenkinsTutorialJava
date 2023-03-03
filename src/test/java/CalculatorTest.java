@@ -6,6 +6,8 @@ import java.util.Set;
 import static org.junit.Assert.*;
 public class CalculatorTest {
 
+    yucky bug
+
     @Test
     public void addTest(){
         Calculator myCalculator = new Calculator();
